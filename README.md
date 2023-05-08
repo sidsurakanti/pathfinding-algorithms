@@ -1,2 +1,3 @@
-# pathfinding-algorithms
- a few pathfinding algorithms that i've learnt
+# Pathfinding algorithms
+- Breadth-first search (BFS)
+- TODO: A*
